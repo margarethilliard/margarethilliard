@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Margaret Hilliard 
+## Hi 👋, my name is Margaret Hilliard 
 
 I'm a computational biologist doing interdisciplinary microbiome and nutrition research. 💻 🧬 🍔
 
