@@ -2,7 +2,7 @@
 
 I'm a computational biologist doing interdisciplinary microbiome and nutrition research. 💻 🧬 🍔
 
-👯 Currently collaborating with scientists at the Western Human Nutrition Research Center applying machine learning + taxonomically-aware algorithms to predict host plasma B12 from fecal metagenome and diet data.
+👯 Currently collaborating with scientists at the Western Human Nutrition Research Center in Davis, CA by applying machine learning + taxonomically-aware algorithms to predict gut microbial function (fecal SCFAs, pathways, etc.) using diet data.
 
 🌱 Learning Snakemake for reproducible bioinformatics workflows and Docker for shareable R-based analyses.
 
